@@ -38,3 +38,11 @@ My study about Blender 2.83
 ## IK ETC
 
 * https://www.youtube.com/watch?v=srpOeu9UUBU
+
+## Bind object to bone
+
+* Pose Mode
+* Choose object in tree
+* `Shift` and click bone
+* `Ctrl+P > bone`
+
